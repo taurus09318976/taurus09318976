@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-Hi 🖐️ Welcome to Abby's Lab 
+![header](Hi 🖐️ Welcome to Abby's Lab type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 
 Tech Stack: 
