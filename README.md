@@ -3,9 +3,8 @@
 *I have gained an understanding of AI technology through software QA at Sendbird and building text and voice datasets to improve TTS models at Neosapience. Through participation in various QA projects and AI product development processes, I have demonstrated project management skills and cross-functional collaboration abilities. With technical skills in Python and SQL, along with fluency in English and French, I effectively communicate with diverse stakeholders. My background in law and political science has equipped me with an understanding of AI ethics and regulations, enabling me to provide balanced perspectives and insights into AI platform development.*
 
 ----
-### Skill Badge
-<img src="https://www.credly.com/badges/9cd2d977-1f20-4727-af09-3b3ebb6e1deb/public_url">
-
+### Skill Badge :
+![Prompt Design in Vertex AI](https://www.credly.com/badges/9cd2d977-1f20-4727-af09-3b3ebb6e1deb/public_url)
 
 
 
