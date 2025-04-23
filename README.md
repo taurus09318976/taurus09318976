@@ -4,7 +4,7 @@
 
 ----
 ### Skill Badge
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9cd2d977-1f20-4727-af09-3b3ebb6e1deb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/9cd2d977-1f20-4727-af09-3b3ebb6e1deb/public_url
 
 
 
