@@ -4,7 +4,7 @@
 
 ----
 ### Skill Badge
-https://www.credly.com/badges/9cd2d977-1f20-4727-af09-3b3ebb6e1deb/public_url
+<img src="https://www.credly.com/badges/9cd2d977-1f20-4727-af09-3b3ebb6e1deb/public_url">
 
 
 
