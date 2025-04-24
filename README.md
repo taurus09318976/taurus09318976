@@ -21,5 +21,5 @@
 
 
 
-<br>**Kaggle**</br>
-<img src="https://github.com/user-attachments/assets/dd312801-588e-4a05-9da4-c5683934312c" width="250" height="150"/>
+<br>**Kaggle & Google**</br>
+<img src="https://github.com/user-attachments/assets/dd312801-588e-4a05-9da4-c5683934312c" width="300" height="180"/>
