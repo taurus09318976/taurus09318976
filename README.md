@@ -19,4 +19,5 @@
 **Google**
 
 ![Image](https://github.com/user-attachments/assets/5e26dc03-8122-484b-8bf8-f06e0eda7c37)
-<img src="https://github.com/user-attachments/assets/dd312801-588e-4a05-9da4-c5683934312c" width="50" height="50"/>
+
+<img src="https://github.com/user-attachments/assets/dd312801-588e-4a05-9da4-c5683934312c" width="250" height="180"/>
