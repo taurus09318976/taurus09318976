@@ -16,10 +16,8 @@
 
 ### Skill Badges:
 
-<br>**Google**</br>
-![Image](https://github.com/user-attachments/assets/5e26dc03-8122-484b-8bf8-f06e0eda7c37)
+<br>**Google**</br>![Image](https://github.com/user-attachments/assets/5e26dc03-8122-484b-8bf8-f06e0eda7c37)
 
 
 
-<br>**Kaggle & Google**</br>
-<img src="https://github.com/user-attachments/assets/dd312801-588e-4a05-9da4-c5683934312c" width="300" height="180"/>
+<br>**Kaggle & Google**</br><img src="https://github.com/user-attachments/assets/dd312801-588e-4a05-9da4-c5683934312c" width="300" height="180"/>
