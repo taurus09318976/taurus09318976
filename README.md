@@ -14,7 +14,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-### Skill Badges
-Google
+### Skill Badges:
+
+**Google**
 
 ![Image](https://github.com/user-attachments/assets/5e26dc03-8122-484b-8bf8-f06e0eda7c37)
